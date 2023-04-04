@@ -47,7 +47,7 @@ Glimpse and Screenshots of our cloned website:
 
 - We also have a feature like Slideshows of food Images with Some Special Discounts and Recent Facebook posts by KindMeal.my, Yummylicious Moments, Discover Restaurants, etc.
 
-- Content page with KindMeal.my official social media link, contacts, policies, information, account, and address.
+- Content page with KindMeal.my official social media link, contacts, policies, information, account, and address
 
 <img src="https://cdn-images-1.medium.com/max/800/1*un7z5ZxlNWGtW2kswGoUMw.png">
 
